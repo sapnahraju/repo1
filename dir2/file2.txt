@@ -1,1 +1,4 @@
 file2.txt created to make the directory visible to git
+
+Added to check diff:wq
+
